@@ -1,14 +1,7 @@
 # Calendar APP
 
-
-## Development steps
-
-1. Rename .env.template file into .env
-2. Make the necessary changes of environment variables
+FrontEnd previo al build de la app: https://github.com/pablomesny/calendar-app-backend
+Pueden encontrar la descripción de la app en el mismo link.
 
 
-```
-
-VITE_API_URL=http://localhost:4000/api
-
-```
+Tecnologías utilizadas: React, Redux, React Big Calendar.
